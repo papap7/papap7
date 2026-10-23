@@ -2,7 +2,7 @@
 
 Aspiring **DevOps Engineer** (with an interest in cloud engineering), looking for a DevOps internship. I'm an IT student who builds and deploys full-stack apps, and I'm now learning to automate how software is built, shipped and monitored.
 
-[LinkedIn](https://www.linkedin.com/in/jhon-paulo-tenorio-82ab973b1/) · jhonpaulo.tenorio7@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jhon-paulo-tenorio-82ab973b1/) · jhonpaulo.hernandez.tenorio@gmail.com
 
 ## What I'm working on
 
